@@ -1,0 +1,35 @@
+# ============================================================
+# Web-Based Application Security Testing Platform
+# Yettie Web Security Tool (Web Version)
+# ============================================================
+
+# Web framework
+Flask>=2.3
+
+# HTML / parsing
+beautifulsoup4>=4.12
+
+# Cryptography & TLS
+cryptography>=41.0
+
+# Compression support
+brotli>=1.1
+
+# Serialization & config
+PyYAML>=6.0
+msgpack>=1.0
+
+# Encoding / charset detection
+chardet>=5.2
+
+# HTTP client (used by repeater / intruder)
+requests>=2.31
+
+# Optional: async support (future use)
+aiohttp>=3.9
+
+# Optional: YAML-based configs
+ruamel.yaml>=0.18
+
+# Optional: WebSocket / streaming (future roadmap)
+websockets>=12.0
