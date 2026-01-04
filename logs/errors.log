@@ -1,0 +1,384 @@
+Failed to save scan results: FOREIGN KEY constraint failed
+Failed to save scan results: FOREIGN KEY constraint failed
+HTTPS error for ('127.0.0.1', 51835): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 52547): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54293): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 53878): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 65084): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 53879): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 56949): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 53033): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 50061): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 50885): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 49788): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 57230): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62360): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 60170): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 63959): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52743): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 51229): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 50369): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 64376): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64152): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62616): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 59112): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 53015): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 58664): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 58504): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 58574): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64522): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55622): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 60854): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 65081): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 58186): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54875): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 63110): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 58766): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 58187): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 58644): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54197): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 65079): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51843): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 52989): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52749): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61309): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 52956): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 62076): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 64109): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54022): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 60114): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51607): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 58148): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 64141): [Errno 2] No such file or directory
+Failed to save scan results: FOREIGN KEY constraint failed
+Failed to save scan results: FOREIGN KEY constraint failed
+Failed to save scan results: FOREIGN KEY constraint failed
+Failed to save scan results: database is locked
+Failed to save scan results: database is locked
+Failed to save findings batch: database is locked
+Failed to save individual finding: database is locked
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to create project scan-8f9bd853: database is locked
+Failed to create project scan-c3928eef: database is locked
+Failed to create project scan-e8eb6e21: database is locked
+Failed to create project scan-f51977ff: database is locked
+Failed to create project scan-37d78368: database is locked
+Failed to create project scan-92184b2d: database is locked
+Failed to create project scan-f267987d: database is locked
+Failed to save findings batch: database is locked
+Failed to save individual finding: database is locked
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save findings batch: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Failed to save individual finding: FOREIGN KEY constraint failed
+Passive scanning error: VulnerabilityScanner._check_security_headers() takes 2 positional arguments but 3 were given
+Writer failed for scan 33f3778c-6308-4236-8609-f1bcd5b97727: 31 values for 32 columns
+HTTPS error for ('127.0.0.1', 60064): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 49610): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 53633): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55250): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 58012): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64629): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51229): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 52106): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 49456): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55171): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 58850): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55192): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51746): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61533): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61615): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56286): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56126): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55747): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61544): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56628): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56106): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52599): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54998): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55233): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 59203): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 59081): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 53854): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55693): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54106): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 57395): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 59224): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55463): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64847): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62553): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51879): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56338): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 59424): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61821): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61368): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56188): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 59529): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 60113): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56561): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62775): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51736): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54793): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61298): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54415): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 53198): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62634): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55190): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 49472): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61896): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54016): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64479): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 65328): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 50181): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 59494): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 63091): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52668): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52978): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 51915): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51059): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 59845): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62402): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54395): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61916): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 49313): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 63855): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54284): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 60522): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54375): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 57983): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 63756): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 59537): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61503): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 53750): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 63595): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55348): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 62550): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54211): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56953): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51671): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54259): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 58357): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54988): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61720): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62550): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52295): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62619): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56403): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54585): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64951): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 49514): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 50707): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 53313): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64192): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 58224): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 65521): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 60104): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55300): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 58220): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 49382): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56229): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55656): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51038): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52400): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 50582): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56724): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54977): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51644): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56369): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55318): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51619): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 57542): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 63536): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 49824): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61600): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54866): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51389): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62681): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 57546): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52638): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54155): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61963): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55242): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64137): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 65279): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 58785): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62251): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51835): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54213): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 58257): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54502): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 55800): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54686): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 50922): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 60086): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 62633): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54505): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 62077): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 58706): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54174): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 61191): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 62588): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 53268): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 55774): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 55018): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 60904): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52078): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 62215): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 64222): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61123): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54150): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 49845): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 53393): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 50144): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56091): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 60424): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 53421): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 60284): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 61553): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61286): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 52986): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 57314): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 53031): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 51725): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62144): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 61731): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 62768): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 50948): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 51244): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 51926): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 49423): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 55102): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 64682): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 54816): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61033): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 57643): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 50231): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 53464): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 58933): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 59779): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64841): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 56189): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 63762): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 59515): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 51680): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 52871): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 61925): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54021): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62177): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54539): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 64240): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 58434): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 51003): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 65186): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 55004): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 54838): [Errno 2] No such file or directory
+HTTPS error for ('127.0.0.1', 62538): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 50560): [Errno 22] Invalid argument
+HTTPS error for ('127.0.0.1', 57718): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 50147): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 55202): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 59523): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 60021): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 49698): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 54224): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 62715): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 52786): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 56317): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 62625): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 55395): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 63468): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 60130): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 50080): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 58141): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 51098): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 57758): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 57562): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 53212): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 64738): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 50299): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 60057): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 62163): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 56895): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 50060): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 51867): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 64334): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 51409): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 53345): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 63269): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 60612): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 52244): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 56222): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 49897): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 56779): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 51309): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 49762): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 55384): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 58486): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 64980): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 64372): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 61663): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 57466): [SSL: HTTPS_PROXY_REQUEST] https proxy request (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 56773): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 53125): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 62007): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 50201): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 49730): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 52026): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 56722): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 62480): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 53463): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 64092): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 50794): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 62484): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+HTTPS error for ('127.0.0.1', 61103): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1000)
+Failed to save intruder job: FOREIGN KEY constraint failed
+Failed to update job status: database is locked
+Failed to update job status: database is locked
+Failed to save intruder job: FOREIGN KEY constraint failed
+Failed to update job status: database is locked
+Failed to update job status: database is locked
+Failed to create project scan-8baf9fef-2d14-4a5d-a437-cabde1d4bb3b: database is locked
+Failed to create project scan-8baf9fef-2d14-4a5d-a437-cabde1d4bb3b: database is locked
+Writer failed for scan 2d36a0bb-aa9f-4f3e-bf34-c562eaf99d49: database is locked
+Writer failed for scan ac4906bc-9821-4299-9e45-49c11ef21e05: database is locked
+Error getting intruder job: Object of type bytes is not JSON serializable
+Error getting intruder job: Object of type bytes is not JSON serializable
